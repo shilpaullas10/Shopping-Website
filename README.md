@@ -1,2 +1,2 @@
 # Shopping-Website
-Technology used HTML5,CSS,JAVASCRIPT,BOOTSTRAP5.
+Developed used HTML5,CSS5,JAVASCRIPT ,BOOTSTRAP5.
